@@ -25,3 +25,31 @@ body {
   font-size: 13px;
 }
 
+.form {
+  margin-top: 10px;
+}
+
+.field, .area, .submit {
+  margin: 10px 0;
+}
+
+table td {
+  padding: 5px;
+}
+
+.show-content {
+  margin: 35px 60px;
+}
+
+.show-title {
+  margin-bottom: 40px;
+}
+
+.show-link {
+  margin-left: 25px;
+}
+
+h4 {
+  font-weight: normal;
+}
+
